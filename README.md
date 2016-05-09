@@ -1,2 +1,0 @@
-# datasciencecoursera
-Homework speciality Coursera
